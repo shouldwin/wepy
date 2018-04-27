@@ -1544,7 +1544,7 @@ var item = require('item.js')
 
 <!-- index.wpy -->
 <template>
-    <com></com>
+    <item></item>
 </template>
 <script>
     import wepy from 'wepy';
